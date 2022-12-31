@@ -1,3 +1,3 @@
 ﻿# ChatWithMe
 ## Chat gpt clone with OpenAI api
-#p Chatat whateveer you waant to.
+<p> Chat whatever you want to</p>
