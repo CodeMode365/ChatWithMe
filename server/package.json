@@ -4,10 +4,11 @@
   "description": "",
   "type": "module",
   "scripts": {
+    "start": "nodemon app.js",
     "server": "nodemon app"
   },
   "keywords": [],
-  "author": "",
+  "author": "CodeMode365(Pabin",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
