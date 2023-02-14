@@ -5,7 +5,7 @@ This is a clone of ChatGPT, a simple chat application, created using Node.js for
 You will need to have Node.js and NPM installed on your machine before proceeding.
 
 ## Snapshot
-[![Screenshot-77.png](https://i.postimg.cc/hGSXGF4N/Screenshot-77.png)]
+![Screenshot-77.png](https://i.postimg.cc/hGSXGF4N/Screenshot-77.png)
 
 ## Getting Started
 * To get started with the ChatGPT clone, first clone the repository from GitHub:
