@@ -2,7 +2,7 @@
 This is a clone of ChatGPT, a simple chat application, created using Node.js for server-side and plain HTML using vite for client-side. It uses WebSocket for real-time communication between the server and the clients.
 
 ## Prerequisites
-You will need to have Node.js and NPM installed on your machine before proceeding.
+***You will need to have Node.js and NPM installed on your machine before proceeding.***
 
 ## Snapshot
 ![Screenshot-77.png](https://i.postimg.cc/hGSXGF4N/Screenshot-77.png)
